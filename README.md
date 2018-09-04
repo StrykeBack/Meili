@@ -24,7 +24,7 @@ Meili is an application that creates a trip itinerary for users based on their p
 - Recommendations change based on weather prediction.
 
 ## Recommendation System
-- Leveraged IBM Watson NLP to categorize activities.
+- Leveraged IBM Watson NLP and Microsoft Azure to categorize activities based on their description and images, respectively.
 - Implemented Recombee, a lazy variant of rule-based recommmendation systems, to give user recommendations.
 - Created weather prediction model using Prophet for weather-based recommendations.
 
