@@ -1,6 +1,6 @@
 # Meili
 
-Meili is an application that creates a trip itinerary for users based on their preferences.
+Meili is an application that creates a trip itinerary for users based on their preferences and historical data on what similar users have enjoyed.
 
 ![Main](ezgif.com-video-to-gif.gif)
 
