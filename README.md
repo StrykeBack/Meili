@@ -2,6 +2,8 @@
 
 Meili is an application that creates a trip itinerary for users based on their preferences.
 
+![Main](ezgif.com-video-to-gif.gif)
+
 ## Team
 - __Project Owner__: Roman Gorelik
 - __Scrum Master__: Erik Lin
@@ -39,8 +41,6 @@ Meili is an application that creates a trip itinerary for users based on their p
 * [PostgreSQL](https://www.postgresql.org/)
 
 ## Screenshots
-![Main](ezgif.com-video-to-gif.gif)
-
 ![Trips](SvsFrIf.jpg)
 
 ![Day](1SKLKWS.png)
